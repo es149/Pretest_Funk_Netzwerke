@@ -1,0 +1,9 @@
+Codebuch,,,,,,,,
+,,,,,,,,
+id,kanal,name,abos,bereich,einzel,aktiv,seit,funk
+Kanalkürzel,Kanalname,Inhaber oder Moderator,Abonenntenanzahl,mb = meinungsblogger,einzelperson oder Gruppe,ist der Kanal noch aktiv?,gründung,ist der Kanal bei Funk?
+,,,,r = reaction,j = Ja,j = Ja,Datum,j = Ja
+,,,,i = influencer,n= Nein,n= Nein,13.03.2021,n = Nein
+,,,,f = funk,,,,e = Ehemalig
+,,,,u = unterhaltung,,,,
+,,,,l = lifestyle,,,,
